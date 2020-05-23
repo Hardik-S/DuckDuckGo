@@ -1,5 +1,7 @@
 # DuckDuckGo
 
+![Beautiful Ducks](https://github.com/Hardik-S/DuckDuckGo/blob/master/_project-1-1.png)
+
 Machine Learning Algorithm to differentiate between data set containing Mallards, Domestic Ducks, and Rubber Duckies. Useful for determining whether or not to squish a cute ducky. 
 
 Utilizes similar concepts to 3 & 7 program with image recognition. Utilizes widgets produced by Jeremy Howard's team. 
